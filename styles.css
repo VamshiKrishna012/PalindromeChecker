@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .logo {
+    color: white;
+    text-align: center;
+  }
+  
+  .card {
+    background-color: white;
+    height: auto;
+    width: 350px;
+    border-radius: 20px;
+    text-align: center;
+    align-content: center;
+    box-shadow: 0px 10px blue;
+  }
+  
+  #text-input {
+    border-bottom: 2px solid blue;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    text-align: center;
+  }
+  
+  #check-btn {
+    background-color: purple;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 15px;
+    border: purple;
+  }
+  
+  #check-btn:hover {
+    cursor: pointer;
+  }
+  
+  #text {
+    background-color: green;
+    padding: 5px;
+    border-radius: 20px;
+    width: 350px;
+    margin-top: 20px;
+    font-size: 20px;
+    color: white;
+  }
