@@ -1,4 +1,5 @@
 🔍 Palindrome Checker
+
 📌 Overview
 The Palindrome Checker is a simple and interactive web-based application that checks whether a given word or sentence is a palindrome. A palindrome is a word, phrase, number, or sequence of characters that reads the same forward and backward, ignoring spaces, punctuation, and capitalization.
 
